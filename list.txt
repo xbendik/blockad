@@ -1,3 +1,4 @@
+# Originaly comes from https://hosts-file.net/ad_servers.txt
 # hpHosts - Ad and Tracking servers only
 #
 # The following are hosts in the hpHosts database with the ATS classification ONLY.
